@@ -1,0 +1,16 @@
+ul,
+p,
+h1,
+h2 {
+  padding: 5px;
+  margin: 0px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 310px;
+  margin: auto;
+  padding: 2rem;
+}
